@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sentinel AI - Motion Detector",
+  "description": "A smart security camera application that detects motion in real-time and uses Gemini AI to analyze and describe the detected activity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
